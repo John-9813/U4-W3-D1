@@ -1,5 +1,6 @@
 # U4-W3-D1
 esercizi DQL
+
 1 - Estrai tutti i clienti con nome Mario:
 SELECT * FROM clienti WHERE nome = 'Mario';
 
